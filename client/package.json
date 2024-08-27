@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://prathapgs.github.io/crud/",
+  "homepage": "https://prathapgs.github.io/crud/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
